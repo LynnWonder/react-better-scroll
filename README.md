@@ -3,7 +3,7 @@
 
 1. 本项目是[better-scroll](https://github.com/ustbhuangyi/better-scroll)在React中的一种实现。
 2. 适用于移动端
-
+3. **以下是原作者(https://github.com/soluteli/react-bscroll)做的介绍，鼓励大家自己封装better-scroll实现功能，尤其是在处理上拉加载下拉刷新上可以增添自己的样式。**
 ## Example
 1. [demo](https://soluteli.github.io/react-bscroll/)   
 2. [源码](examples/pages)  
